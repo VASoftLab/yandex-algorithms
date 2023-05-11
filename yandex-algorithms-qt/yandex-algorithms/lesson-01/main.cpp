@@ -73,5 +73,4 @@ int main()
     vector<size_t> betsID = cmp->getWinners(2);
 
     delete cmp;
-    std::cout << "Hello World!\n";
 }
